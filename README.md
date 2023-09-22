@@ -5,7 +5,7 @@ A web-based application that analyzes the frequency data (Hz) of a desired/uploa
 - HTML
 - CSS
 - JavaScript
-- Bootstrap
+- Bootstrap (Front-end engine)
 - Python (Data Processing and Analysis)
 - Flask (Back-end engine)
 - Jinja2 (HTML templating engine)
